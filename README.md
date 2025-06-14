@@ -3,7 +3,7 @@
 Welcome to your **first hands-on DevOps project**!  
 In this simple guide + repo, we’ll show you how to deploy a static HTML/CSS website to **Amazon S3** — manually, step-by-step.
 
-> 💡 This is part of my beginner DevOps series: [Read the full article here](https://abdulrahmanalpha.hashnode.dev)
+> 💡 This is part of my beginner DevOps series: [Read the full article here](https://abdulrahmanalpha.hashnode.dev/your-first-devops-project-deploy-a-static-website-to-aws-s3-step-by-step-guide)
 
 ---
 
@@ -33,7 +33,7 @@ In this simple guide + repo, we’ll show you how to deploy a static HTML/CSS we
 
 ## ☁️ Hosting on AWS S3 (Summary)
 
-> For the full step-by-step guide, [read the tutorial here](https://abdulrahmanalpha.hashnode.dev)
+> For the full step-by-step guide, [read the tutorial here](https://abdulrahmanalpha.hashnode.dev/your-first-devops-project-deploy-a-static-website-to-aws-s3-step-by-step-guide)
 
 1. Create an S3 bucket  
 2. Enable static website hosting in the bucket properties  
